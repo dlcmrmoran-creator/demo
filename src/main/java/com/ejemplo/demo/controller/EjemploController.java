@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 @RestController
-public class EjemploController {
+public class EjemploController {//ejemplo de comentario
 
     @GetMapping("/info")
     public String info() {

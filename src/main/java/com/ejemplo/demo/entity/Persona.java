@@ -42,7 +42,7 @@ public class Persona {
     }
 
     public String getNombre() {
-        return nombre;
+        return nombre; //ejemplo de comentario
     }
 
     public void setNombre(String nombre) {
