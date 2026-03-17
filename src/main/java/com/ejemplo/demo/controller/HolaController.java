@@ -22,5 +22,6 @@ public class HolaController {
     public String saludar() {
         return "Hola mundo";
     }
+    //ejemplo de comentario
 
 }
